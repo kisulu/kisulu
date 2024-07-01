@@ -1,4 +1,10 @@
-<h1 align="center">Hello world 👋, I'm Benedict Ooko</h1>
+<h1 align="left">Hello world 👋,</h1>
+<h2 align="left">About Me</h2>
+
+I'm Benedict Ooko, I'm Kenyan, and a workaholic.
+
+
+
 <h3 align="center">A passionate Cybersecurity Expert from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisulu&label=Profile%20views&color=0e75b6&style=flat" alt="kisulu" /> </p>
