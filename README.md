@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="left"><font face="Arial">Hello world 👋, I'm Benedict Ooko</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/benedict ooko" target="_blank" rel="noreferrer">Whoami? </a>A passionate Cybersecurity Expert Studying at St Paul's University for 3 years now, from Kenya</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/benedict ooko" target="_blank" rel="noreferrer">Whoami? </a>A passionate Cybersecurity Expert Studying at St Paul's University for 4 years now, from Kenya</font></h3>
 
 
 <!-- GIF -->
@@ -8,12 +8,19 @@
 <p align="right">
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 </p>
+ 🎲 I've been active on GitHub since [2022](https://github.com/kisulu/)
+ 
+- 🔭 I know **Powershell scripting,** **bash scripting,** **rust,** **and advanced python**
 
-- 🔭 I’m currently working on **Powershell scripting**
+- 🌱 First programming langauges were **C followed by Java**
 
-- 🌱 I’m currently learning **Powershell scripting, bash scripting, rust, and advanced python**
-
-- 🤝 I’m looking for help with **Bash scripting**
+- 🤝 I’m looking for help with **Bash scripting and Python**
+  
+- 🌱 I am currently learning *AL and Java Script*
+  
+- 💬 Ask me about my studying Computer Science and Most Paid Specialization
+  
+- 😄 Pronouns: he/his.
 
 <p align="left"> 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kisulu" 
