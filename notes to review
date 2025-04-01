@@ -2,3 +2,16 @@ mb800
 https://www.microsoft.com/en-us/download/details.aspx?id=106299
 SQL Server
 SSMS
+
+- Set-NAVServerConfiguration -ServerInstance BC250 -KeyName EnableDeveloperServiceEndpoint -KeyValue True
+- Set-NAVServerConfiguration -ServerInstance BC250 -KeyName DeveloperServicesEnabled -KeyValue True
+- Restart-NAVServerInstance -ServerInstance BC250
+- Get-NAVServerConfiguration -ServerInstance BC250 
+
+
+----Configure launch.json---
+      "server": "http://localhost:8080/BC250/",
+      "serverInstance": "BC250",
+      "authentication": "Windows",
+      "port": 7049,
+
