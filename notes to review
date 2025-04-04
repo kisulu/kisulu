@@ -20,3 +20,14 @@ SSMS
       "authentication": "Windows",
       "port": 7049,
 
+AL Objects
+
+⇒ Tables -- Rows, columns
+⇒ Table extensions - customization on D365
+⇒ Pages - Card, List, Worksheet and Document.
+⇒ Page extensions
+⇒ Report
+⇒ XML Ports
+⇒ Enums - Options
+⇒ Codeunits - Procedures, re-use
+
