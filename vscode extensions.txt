@@ -1,0 +1,26 @@
+GitHub Copilot Chat
+AL Language extension for Microsoft Dynamics 365 B
+AL Object Designer
+Auto Close Tag
+AZ AL Dev Tools/AL Code Outline
+Bootstrap 5 & Font Awesome Snippets
+Bootstrap Class Autocomplete
+Class autocomplete for HTML
+Code Runner
+Code Spell Checker
+Draw.io Integration
+Excel Viewer
+GitHub Copilot
+GitLens — Git supercharged
+HTML CSS Support
+IntelliCode
+IntelliCode API Usage Examples
+Live Server
+Material Icon Theme
+Polacode-2022
+Power Mode
+Prettier - Code formatter
+Restore Terminals
+Vibrancy Continued
+VS HTML to CSS
+waldo's CRS AL Language Extension
